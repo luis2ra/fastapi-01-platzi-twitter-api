@@ -1,0 +1,3 @@
+# para ejecutar fastapi, se ejecuta:
+$ uvicorn main:app --reload
+
