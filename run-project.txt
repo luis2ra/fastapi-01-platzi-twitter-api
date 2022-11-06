@@ -1,3 +1,4 @@
+# entorno de trabajo: conda con python 3.10.4
+
 # para ejecutar fastapi, se ejecuta:
 $ uvicorn main:app --reload
-
